@@ -1,0 +1,46 @@
+{
+  "grade": [
+    {
+      "id": 1,
+      "name": "Chai",
+      "gender": "male",
+      "score": 80,
+      "grade": "A"
+    },
+    {
+      "id": "0e01",
+      "name": "santh",
+      "gender": "male",
+      "score": 100,
+      "grade": "A"
+    },
+    {
+      "id": "ef18",
+      "name": "santhiti",
+      "gender": "male",
+      "score": 10,
+      "grade": "C"
+    },
+    {
+      "id": "39b7",
+      "name": "test yahool",
+      "gender": "Male",
+      "score": 100,
+      "grade": "A"
+    },
+    {
+      "id": "1532",
+      "name": "test ",
+      "gender": "Male",
+      "score": 8,
+      "grade": "C"
+    },
+    {
+      "id": "5cf8",
+      "name": "testsdf",
+      "gender": "Female",
+      "score": 30,
+      "grade": "C"
+    }
+  ]
+}
